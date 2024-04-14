@@ -1,0 +1,17 @@
+{
+  "name": "paralax-effect-with-gsap-scrolltrigger",
+  "version": "1.0.0",
+  "description": "Paralax effect with GSAP ScrollTrigger",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gsap": "^3.12.5",
+    "splitting": "^1.0.6",
+    "vite": "^2.9.18"
+  }
+}
