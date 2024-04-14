@@ -4,14 +4,15 @@
   "description": "Paralax effect with GSAP ScrollTrigger",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "npx vite build" 
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gsap": "^3.12.5",
-    "splitting": "^1.0.6",
-    "vite": "^2.9.18"
+    "vite": "^2.0.0",
+    "gsap": "^3.11.4",
+    "splitting": "^1.0.1"
   }
 }
